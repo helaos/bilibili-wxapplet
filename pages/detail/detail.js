@@ -40,6 +40,9 @@ Page({
     })
   },
 
+  /**
+   * 根据视频id获取推荐视频数据
+   */
   getOthersList(id) {
     let that = this;
     wx.request({

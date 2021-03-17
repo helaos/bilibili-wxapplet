@@ -42,7 +42,7 @@
   "compileType": "miniprogram",
   "libVersion": "2.0.4",
   "appid": "wx1ebe60a4d8a5ab74",
-  "projectname": "bilibili-app",
+  "projectname": "bilibili-wxapplet",
   "debugOptions": {
     "hidedInDevtools": []
   },

@@ -15,3 +15,12 @@
 - **推荐视频**：http://mock-api.com/mnEe4VnJ.mock/otherList
 - **评论数据**：http://mock-api.com/mnEe4VnJ.mock/commentList
 
+### 预览图
+
+**首页**：
+
+![image-20210317152500435](image/image-20210317152500435.png)
+
+**视频详情**：
+
+![image-20210317152545834](image/image-20210317152545834.png)

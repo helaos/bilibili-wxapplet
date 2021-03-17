@@ -1,0 +1,53 @@
+.bili_title {
+  display: flex;
+  align-items: center;
+  padding: 10rpx;
+  background-color: white;
+}
+
+.logo {
+  flex: 7;
+}
+
+.search_icon {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.avatar_icon {
+  flex: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.down_icon {
+  flex: 3;
+  font-size: 30rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: pink;
+  color: white;
+  border-radius: 10rpx;
+  padding: 10rpx;
+}
+
+/* 图片样式 */
+.logo_image {
+  width: 140rpx;
+  height: 50rpx;
+}
+
+.search_image {
+  width: 60rpx;
+  height: 44rpx;
+}
+
+.avatar_image {
+  width: 54rpx;
+  height: 60rpx;
+  border-radius: 50%;
+}

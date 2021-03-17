@@ -1,0 +1,18 @@
+<view class="bili_title">
+  <!-- logo -->
+  <navigator class="logo">
+    <image class="logo_image" src="../../icons/logo.svg"></image>
+  </navigator>
+  <!-- 搜索 -->
+  <view class="search_icon">
+    <image class="search_image" src="../../icons/search.svg"></image>
+  </view>
+  <!-- 用户 -->
+  <view class="avatar_icon">
+    <image class="avatar_image" src="../../icons/avatar.png"></image>
+  </view>
+  <!-- 下载按钮 -->
+  <view class="down_icon">
+    下载 App
+  </view>
+</view>
